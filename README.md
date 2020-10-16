@@ -1,4 +1,5 @@
 # runing-car-through-c
+//This code is for moving car 
 ter_none
 brightness_4
 // C program to draw a moving car. This 
